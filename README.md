@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Good morning, and in case I don't see ya, good afternoon, good evening, and good night!
+
+[Know More about Me](https://peichun.xyz)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarendis56&count_private=true&show_icons=true&theme=tokyonight" />
+</p>
+
 <!--
 **sarendis56/sarendis56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
